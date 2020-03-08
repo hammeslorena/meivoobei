@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://quigiathu.longlivepasswords.com/sitemap.xml
